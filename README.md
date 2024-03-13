@@ -16,7 +16,10 @@ Soon.
 - [Netlify ENV URL Shortener](https://github.com/mativizo/netlify-env-url-shortener)
 - [ENV URL Shortener](https://github.com/mativizo/env-url-shortener)
 
-### Meta:
-| | |
-|-|-|
-| [Blog Posts](mativizo.github.io/#newest-posts) | [Mativizo's Projects](mativizo.github.io/#my-projects) |
+
+| Meta | Godot |
+| ---- | ----- |
+| [Blog Posts](mativizo.github.io/#newest-posts) |  |
+| [Mativizo's Projects](mativizo.github.io/#my-projects) | - |
+| [Mativizo's GitHub](https://github.com/mativizo) | - |
+| [Homepage](https://mativizo.github.io) | - |
